@@ -77,7 +77,7 @@
 .chat-window-title .text { margin-top: 1px; }
 
 .chat-window-title .close {
-    background-image: url("/ChatJs/Images/clear.png");
+    background-image: url("/content/ChatJs/Images/clear.png");
     float: right;
     height: 16px;
     opacity: 0.7;
@@ -295,7 +295,7 @@ ul.horizontal-tab {
 ul.horizontal-tab li .text { }
 
 ul.horizontal-tab li .close {
-    background-image: url("/ChatJs/Images/clear.png");
+    background-image: url("/content/ChatJs/Images/clear.png");
     display: none;
     float: right;
     height: 16px;
@@ -330,6 +330,11 @@ ul.horizontal-tab li {
 .tab-content .rooms-list {
     overflow-y: auto;
 }
+
+.rooms-list > .user-list-empty {
+    margin: 5px 10px;
+}
+
 
 ul.horizontal-tab li.selected {
     background-color: #FFFFFF;
@@ -398,8 +403,4 @@ ul.horizontal-tab li.selected {
 
 .message-board.pm-window {
     margin-bottom: 3px;
-}
-
-.rooms-list > .user-list-empty {
-    margin: 5px 10px;
 }
