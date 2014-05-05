@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatJs.Model", "ChatJs.Model\ChatJs.Model.csproj", "{354854C8-753A-4C86-9B88-63151A50A9F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatJs.Admin", "ChatJS.Admin\ChatJs.Admin.csproj", "{5865DB2F-9B58-4772-AF98-B260DD982C89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatJs.Admin", "ChatJs.Admin\ChatJs.Admin.csproj", "{5865DB2F-9B58-4772-AF98-B260DD982C89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
